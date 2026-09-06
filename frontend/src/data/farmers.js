@@ -1,0 +1,62 @@
+export const FARMERS = [
+  {
+    id: 'farmer-1',
+    name: 'Rameshwar Patil',
+    leadRole: 'Lead Organic Cultivator',
+    fpoName: 'Sahyadri Farmers Cooperative',
+    location: 'Dindori, Nashik (Maharashtra)',
+    avatar: 'https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&q=80&w=400',
+    experienceYears: 24,
+    familyAcres: 4.5,
+    directPayoutRate: '82%',
+    quote: "For 20 years, middlemen took 60% of our hard work. Today, with direct selling, my daughter is finishing her veterinary degree.",
+    verifiedFPO: true,
+    soilType: 'Black Clay Rich Alluvial',
+    certifications: ['Jaivik Bharat', 'PGS-India Organic']
+  },
+  {
+    id: 'farmer-2',
+    name: 'Shanti Devi & Group',
+    leadRole: 'Self-Help Group Leader',
+    fpoName: 'Konkan Mahila Agro Collective',
+    location: 'Devgad, Sindhudurg (Maharashtra)',
+    avatar: 'https://images.unsplash.com/photo-1595454223600-91fbdd774f76?auto=format&fit=crop&q=80&w=400',
+    experienceYears: 18,
+    familyAcres: 3.2,
+    directPayoutRate: '85%',
+    quote: "Our Alphonso mangoes are ripened using traditional rice straw. No chemical carbide gas touches our fruit.",
+    verifiedFPO: true,
+    soilType: 'Laterite Coastal Hills',
+    certifications: ['GI-Tagged Ratnagiri Alphonso', 'Zero Residue']
+  },
+  {
+    id: 'farmer-3',
+    name: 'Bashir Ahmad Mir',
+    leadRole: 'High-Altitude Orchardist',
+    fpoName: 'Shopian Apple Growers Union',
+    location: 'Shopian, Pir Panjal Foothills (Kashmir)',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400',
+    experienceYears: 31,
+    familyAcres: 6.0,
+    directPayoutRate: '79%',
+    quote: "We don't coat our apples with food wax. You receive them exactly as nature hung them on the high mountain branch.",
+    verifiedFPO: true,
+    soilType: 'Mountain Glacial Loam',
+    certifications: ['Unwaxed Guaranteed', 'Snow-Fed Irrigation']
+  },
+  {
+    id: 'farmer-4',
+    name: 'Gurpreet Singh Cheema',
+    leadRole: 'Heritage Grain Custodian',
+    fpoName: 'Malwa Regenerative Farmers',
+    location: 'Bathinda (Punjab)',
+    avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=400',
+    experienceYears: 16,
+    familyAcres: 8.0,
+    directPayoutRate: '80%',
+    quote: "Desi Bansi and Sharbati wheat grown using native Jeevamrut compost instead of synthetic DAP and urea.",
+    verifiedFPO: true,
+    soilType: 'Indo-Gangetic Silt',
+    certifications: ['Natural Farming Mission', 'NPOP Certified']
+  }
+];
